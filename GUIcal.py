@@ -11,3 +11,9 @@ label1.pack()
 
 label2 = Label(frame1,text= "enter_second_number")
 label2.pack()
+
+def btnClick():
+    labelnum1 = configure =
+btnnum1 = Button(frame1,command = btnClick)
+btnnum1.grid(row=0,column=1)
+
