@@ -1,0 +1,11 @@
+{
+	"category_list": [{
+			"name": "fruits",
+			"list": ["apple", "banana"]
+		},
+		{
+			"name": "aniimals",
+			"list": ["dog", "cat"]
+		}
+	]
+}
