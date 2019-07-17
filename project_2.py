@@ -16,7 +16,7 @@ def open_category(name):
      list_data_for_category = get_data_for_category(name)
      for i in range(len(list_data_for_category)):
          element = list_data_for_category[i]
-         label = tkinter.Label(window,text = element)
+         label = tkinter.Label(canvas_frame,text = element)
          label.grid(column = 0,row  = i+1)
          category_data_labels.append(label)
 
