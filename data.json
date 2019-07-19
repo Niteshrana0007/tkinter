@@ -1,11 +1,52 @@
 {
-	"category_list": [{
-			"name": "fruits",
-			"list": ["apple", "banana"]
+	"news_data": [{
+			"category_name": "sports",
+			"news": [{
+					"image": "",
+					"headline": "headline1",
+
+					"content": "If you don’t specify a size, the label is made just large enough\n to hold its contents. You can also use the height and width options to\n explicitly set the size. If you display text in the label, these options\ndefine the size of the label in text units. If you display bitmaps or"
+				},
+				{
+					"image": "",
+					"headline": "headline2",
+					"content": "Content2 Content2 Content2 Content2 Content2 Content2 Content2 Content2"
+				},
+				{
+					"image": "",
+					"headline": "ABC",
+					"content": "ABC Xyz"
+				},
+				{
+					"image": "",
+					"headline": "LMN",
+					"content": "LMX OPS"
+				}
+			]
 		},
 		{
-			"name": "aniimals",
-			"list": ["dog", "cat"]
+			"category_name": "entertainment",
+			"news": [{
+					"image": "",
+					"headline": "__headline__1",
+					"content": "__Content1 Content1 Content1 Content1 Content1 Content1 Content1 Content1 Content1"
+				},
+				{
+					"image": "",
+					"headline": "__headline2",
+					"content": "__Content2 Content2 Content2 Content2 Content2 Content2 Content2 Content2"
+				},
+				{
+					"image": "",
+					"headline": "__ABC",
+					"content": "__ABC Xyz"
+				},
+				{
+					"image": "",
+					"headline": "__LMN",
+					"content": "__LMX OPS"
+				}
+			]
 		}
 	]
 }
